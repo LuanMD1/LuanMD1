@@ -33,6 +33,19 @@
 </section>
 </br>
 
+## **Redes Sociais**
+
+<p align="center"> Me encontre nas redes sociais. Basta clicar nos links abaixo. </p>
+
+<div align="center">
+</br>
+  <a href="https://www.linkedin.com/in/luan-michel1/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+   <a href="https://www.instagram.com/luanmichel_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=5515991309131" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:luan.mdn1@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
+</br>
+
 
 ## **+ About me** 
 
@@ -52,26 +65,6 @@ const aboutMe = {
 });
 ```
 </br>
-
-## **Redes Sociais**
-
-<p align="center"> Me encontre nas redes sociais. Basta clicar nos links abaixo. </p>
-
-<div align="center">
-</br>
-  <a href="https://www.linkedin.com/in/luan-michel1/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-   <a href="https://www.instagram.com/luanmichel_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=5515991309131" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="mailto:luan.mdn1@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
-</br>
-
-- 👋 Hi, I’m @LuanMD1
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML, CSS and JavaScript, React and SQL.
-- 💞️ I’m looking to collaborate on new learnings and work projects
-- 📫 To reach me, e-mail to: luan.mdn1@gmail.com
-Visit me in LinkedIn -> https://www.linkedin.com/in/luan-michel1/
 
 <!---
 LuanMD1/LuanMD1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
