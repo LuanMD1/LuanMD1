@@ -1,7 +1,10 @@
-<div align="center"><h1> # 🏄‍♂️ Luan Michel's  Github</h1></div>
+<div align="center"><h1> # 🏄‍♂️ Luan Michel's  Github</h1></div>+
+
+<div align="center"><h3>Jr. Front-end Developer<h3></div>
 <br>
-<div align="center"><h2>Olá, seja bem-vindo ao meu GitHub !<h2></div>
-<div align="left"><h3>Jr. Front-end Developer<h3></div>
+
+<div align="center"><h1><strong>Olá, seja bem-vindo ao meu GitHub !</strong><h1></div>
+
  
 Olá, me chamo Luan Michel, Desenvolvedor front-end. 26 anos, estudante de Análise e desenvolvimento de sistemas. Moro atualmente em Sorocaba/SP. Apaixonado pela  natureza e a tecnologia. Disponibilizo aqui no Github alguns projetos pessoais que desenvolvo durante minha jornada.</p>
 </div>
@@ -27,6 +30,8 @@ const aboutMe = {
 </br>
 
 ## **Redes Sociais**
+
+<p> Me encontre nas redes sociais. Basta clicar nos links abaixo. </p>
 
 <div align="center">
 </br>
@@ -64,7 +69,7 @@ const aboutMe = {
 </section>
 </br>
 
-- 👋 Hi, I’m @LuanMD1
+- <!---👋 Hi, I’m @LuanMD1
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML, CSS and JavaScript, React and SQL.
 - 💞️ I’m looking to collaborate on new learnings and work projects
