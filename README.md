@@ -1,7 +1,6 @@
 <div align="center"><h1> # 🏄‍♂️ Luan Michel's  Github #</h1></div>
 
-
-<div align="center"><h3>Jr. Front-end Developer<h3></div>
+<h3 align="center">Jr. Front-end Developer<h3>
   
 <br>
 
