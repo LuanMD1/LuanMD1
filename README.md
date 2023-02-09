@@ -31,7 +31,7 @@ const aboutMe = {
 
 ## **Redes Sociais**
 
-<p> Me encontre nas redes sociais. Basta clicar nos links abaixo. </p>
+<p align="center"> Me encontre nas redes sociais. Basta clicar nos links abaixo. </p>
 
 <div align="center">
 </br>
