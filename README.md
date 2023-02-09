@@ -1,8 +1,7 @@
-<div align="center"><h1> # 🏄‍♂️ Luan Michel's  Github #</h1></div>
-
+<div>
+<h1 align="center"> # 🏄‍♂️ Luan Michel's  Github #</h1>
 <h3 align="center">Jr. Front-end Developer<h3>
-  
-<br>
+</div>
 
 <div align="center"><h1><strong>Olá, seja bem-vindo ao meu GitHub !</strong><h1></div>
 
