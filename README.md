@@ -53,7 +53,7 @@
 const aboutMe = {
   name: 'Luan Michel',
   age: '26 years old';
-  nível: 'Junior',
+  level: 'Junior',
   languages: ['HTML5', 'CSS', 'JavaScript', 'Python'],
   tools: ['React', 'Github', 'Git'],
   softSkills: [
