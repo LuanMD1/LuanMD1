@@ -1,11 +1,11 @@
+<h1 align="center"><strong>Olá, seja bem-vindo ao meu GitHub !</strong></h1>
+<hr>
 <div>
 <h1 align="center"> # 🏄‍♂️ Luan Michel's  Github #</h1>
- <br>
 <h3 align="center">Jr. Front-end Developer<h3>
 </div>
 <br>
-<h1 align="center"><strong>Olá, seja bem-vindo ao meu GitHub !</strong></h1>
-
+<hr>
 <p>Olá, me chamo Luan Michel, Desenvolvedor front-end. 26 anos, estudante de Análise e desenvolvimento de sistemas. Moro atualmente em Sorocaba/SP. Apaixonado pela  natureza e a tecnologia. Disponibilizo aqui no Github alguns projetos pessoais que desenvolvo durante minha jornada.</p>
 </div>
 </br>
