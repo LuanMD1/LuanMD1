@@ -4,7 +4,6 @@
 <h3 align="center">Jr. Front-end Developer<h3>
 </div>
 <br>
-<br>
 <h1 align="center"><strong>Olá, seja bem-vindo ao meu GitHub !</strong><h1>
 
 
