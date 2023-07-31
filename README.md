@@ -54,8 +54,8 @@ const aboutMe = {
   name: 'Luan Michel';
   age: '26 years old';
   level: 'Junior';
-  languages: ['HTML5', 'CSS', 'JavaScript', 'Python'],
-  tools: ['React', 'Github', 'Git'],
+  languages: ['React.JS','JavaScript','HTML/CSS', 'Flutter','Node.JS', 'Python', 'SQL'],
+  tools: ['Figma', 'Github', 'Git'],
   softSkills: [
     'Communication',
     'Analytical thinking',
