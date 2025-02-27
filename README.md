@@ -59,8 +59,8 @@ const aboutMe = {
   softSkills: [
     'Communication',
     'Analytical thinking',
-    'Personal confidence',
-    'Team work',
+    'Problem solver',
+    'Team worker',
   ]
 });
 ```
