@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Luan Michel's  GitHub 🏄‍</strong></h1>
 <br>
-<h3 align="center">Jr. Full-Stack Developer<h3>
+<h3 align="center">Fullstack Software Engineer<h3>
 <br>
 <p>Olá, me chamo Luan Michel, Fullstack Software Engineer. 28 anos, Apaixonado pela  natureza e tecnologia. Disponibilizo aqui no Github alguns projetos pessoais que desenvolvo durante minha jornada.</p>
 </div>
