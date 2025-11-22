@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">Jr. Full-Stack Developer<h3>
 <br>
-<p>Olá, me chamo Luan Michel, Desenvolvedor front-end. 28 anos, Desenvolvedor Full Stack. Moro atualmente em Sorocaba/SP. Apaixonado pela  natureza e tecnologia. Disponibilizo aqui no Github alguns projetos pessoais que desenvolvo durante minha jornada.</p>
+<p>Olá, me chamo Luan Michel, Fullstack Software Engineer. 28 anos, Apaixonado pela  natureza e tecnologia. Disponibilizo aqui no Github alguns projetos pessoais que desenvolvo durante minha jornada.</p>
 </div>
 </br>
 
@@ -53,9 +53,9 @@
 const aboutMe = {
   name: 'Luan Michel';
   age: '28 years old';
-  level: 'Junior';
-  languages: ['React.JS','JavaScript','HTML/CSS', 'C#','Node.JS', 'Python', 'SQL'],
-  tools: ['Figma', 'Github', 'Git', 'Jira', 'RabbitMQ', 'AWS'],
+  level: 'Mid-level';
+  languages: ['Java', 'C#', 'Next.JS','JavaScript','HTML/CSS','Node.JS', 'Python', 'SQL'],
+  tools: [ 'AWS', 'Figma', 'Github', 'Git', 'Jira', 'RabbitMQ'],
   softSkills: [
     'Communication',
     'Analytical thinking',
